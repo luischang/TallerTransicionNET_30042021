@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerTransicionNET.Web", "TallerTransicionNET.Web\TallerTransicionNET.Web.csproj", "{FF504772-D9F6-4D5F-9892-D6F3E2CE200A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerTransicionNET.API", "TallerTransicionNET.API\TallerTransicionNET.API.csproj", "{9009C2B4-081B-476F-9E6A-F9C6F48F6CA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF504772-D9F6-4D5F-9892-D6F3E2CE200A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF504772-D9F6-4D5F-9892-D6F3E2CE200A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF504772-D9F6-4D5F-9892-D6F3E2CE200A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF504772-D9F6-4D5F-9892-D6F3E2CE200A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9009C2B4-081B-476F-9E6A-F9C6F48F6CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9009C2B4-081B-476F-9E6A-F9C6F48F6CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9009C2B4-081B-476F-9E6A-F9C6F48F6CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9009C2B4-081B-476F-9E6A-F9C6F48F6CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCFEB463-3A14-4D5C-90CF-3A55579BA86D}
+	EndGlobalSection
+EndGlobal
